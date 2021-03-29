@@ -1,3 +1,3 @@
 # password-checker
 
-# ALLOWS YOU TO CHECK IF YOUR PASSWORD IS SECURE OR NOT
+# Allows you to check if your password is secure or not
